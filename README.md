@@ -59,20 +59,23 @@ Frameworks Utilized: CakePHP 4
 </p>
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Pruthvik1/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pruthvik1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<p align="center"><img src="https://profile-counter.glitch.me/{Pruthvik1}/count.svg" alt="Parth :: Visitor's Count" /></p>
 
-</details>
+<h4 align="center">Top langs :tongue:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvik1&langs_count=10&theme=tokyonight&layout=compact" alt="Parth :: Top Langs" /></p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pruthvik1&show_icons=true&theme=synthwave" alt="Parth:: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+----
 
 
 
