@@ -26,7 +26,7 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/Pruthvik1/Library-Management-System)<br>
+### [ Library Management System: ](https://github.com/Pruthvik1/Library-Management-System)<br>
 A Completed Online Library App based on cakePHP 4  with different roles also having Polpular books section as well as recent books section .This web app can also manage students by admins as well as librains and admin can moniter all library activities by respective panels.<br>
 Frameworks Utilized: CakePHP 4
 
