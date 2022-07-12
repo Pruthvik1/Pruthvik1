@@ -60,10 +60,10 @@ Frameworks Utilized: CakePHP 4
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
+<!-- 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Pruthvik1}/count.svg" alt="Parth :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Pruthvik1}/count.svg" alt="Parth :: Visitor's Count" /></p> -->
 
 <h4 align="center">Top langs :tongue:</h4>
 
