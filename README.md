@@ -30,7 +30,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pruthvik1&repo=Libarary-Management-System&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.Pruthvik1.app/api/pin/?username=Pruthvik1&repo=Libarary-Management-System&theme=tokyonight" />
 
 </a> 
 
@@ -42,7 +42,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Pruthvik1/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pruthvik1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/Pruthvik1/github-readme-stats"><img alt="Parth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pruthvik1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 
 </details>
 
@@ -50,7 +50,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Pruthvik1"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvik1&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Pruthvik1"><img alt="Parth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvik1&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
