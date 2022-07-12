@@ -24,20 +24,13 @@
 <br>
 
 ## Projects
+  
 
-<a href="https://github.com/Pruthvik1/">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
-
-</a>  
-
-<a href="https://github.com/Pruthvik1/">
+<a href="https://github.com/Pruthvik1/Library-Management-System">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Pruthvik1&repo=Libarary-Management-System&theme=tokyonight" />
 
 </a> 
 
@@ -50,11 +43,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/Pruthvik1/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pruthvik1&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pruthvik1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
-  <br/>
-  </p>
+
 </details>
 
 
