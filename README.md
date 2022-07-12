@@ -21,18 +21,17 @@
 
 
 <br>
-<br>
-<!-- 
-## Projects
   
+  
+<p>
 
-<a href="https://github.com/Pruthvik1/Library-Management-System">
+## 📝 Recent Projects
+### [ Using Dating Profiles to Predict Occupation: ](https://github.com/Pruthvik1/Library-Management-System)<br>
+A Completed Online Library App based on cakePHP 4  with different roles also having Polpular books section as well as recent books section .This web app can also manage students by admins as well as librains and admin can moniter all library activities by respective panels.<br>
+Frameworks Utilized: CakePHP 4
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<!--   <img align="center" src="https://github-readme-stats.Pruthvik1.app/api/pin/?username=Pruthvik1&repo=Libarary-Management-System&theme=tokyonight" />
-
-</a>  --> 
+</p>
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
