@@ -22,7 +22,7 @@
 
 <br>
 <br>
-
+<!-- 
 ## Projects
   
 
@@ -32,7 +32,7 @@
 
   <img align="center" src="https://github-readme-stats.Pruthvik1.app/api/pin/?username=Pruthvik1&repo=Libarary-Management-System&theme=tokyonight" />
 
-</a> 
+</a>  -->
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
@@ -47,13 +47,6 @@
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Pruthvik1"><img alt="Parth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pruthvik1&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
